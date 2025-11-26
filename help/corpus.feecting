@@ -1,0 +1,14 @@
+// Copyright ©2025 Quinn A Michaels; All rights reserved. 
+// Legal Signature Required For Lawful Use.
+// Distributed under VLA:70495219266813465441 LICENSE.md
+//  Tuesday, November 25, 2025 - 2:25:51 AM
+
+::BEGIN:MAIN
+# {{agent.name}}
+
+{{profile}}
+
+talk: #identity help main:license
+
+copyright: {{profile.copyright}}
+::END:MAIN

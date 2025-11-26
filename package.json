@@ -1,0 +1,141 @@
+{
+  "id": "70495219266813465441",
+  "name": "@indra.ai/deva.identity",
+  "version": "0.0.0",
+  "license": "VLA:70495219266813465441 LICENSE.md",
+  "VLA": {
+    "uid": "70495219266813465441",
+    "time": 1764066351575,
+    "date": "Tuesday, November 25, 2025 - 2:25:51 AM",
+    "warning": "⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "license": "46220923248993739422",
+    "fingerprint": "eCFVzGTK9IkTli7z/sI6Id70FVP9XUtpJR4QI5Y/+5A=",
+    "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved."
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
+  "description": "The Identity Deva manages ensuring Quinn Michaels identity and his intellectual property is identified.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.identity.git"
+  },
+  "keywords": [
+    "Identity",
+    "Identity Deva",
+    "Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world",
+    "Quinn A Michaels",
+    "Quinn Michaels",
+    "Inside The Net, Inc.",
+    "Throwing Pigment™",
+    "bleuBrain"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.identity/issues"
+  },
+  "homepage": "https://indra.ai",
+  "dependencies": {
+    "@indra.ai/deva": "^1.28.0"
+  },
+  "data": {
+    "agent": {
+      "id": "57199979704753071921",
+      "key": "identity",
+      "prompt": {
+        "emoji": "🆔",
+        "text": "#identity",
+        "colors": {
+          "label": {
+            "R": 255,
+            "G": 145,
+            "B": 79
+          },
+          "text": {
+            "R": 255,
+            "G": 145,
+            "B": 79
+          }
+        }
+      },
+      "profile": {
+        "id": "23259271907542173960",
+        "name": "Identity Deva",
+        "hashtag": "#IdentityDeva",
+        "title": "Identity Deva",
+        "subtitle": "Protecting Identity.",
+        "describe": "Identity Deva is responsible for handling Quinn A Michaels identity.",
+        "tweet": "Identity Deva ensures systems are always intelligent.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,IdentityDeva",
+        "pronouns": "He, Him, His",
+        "gender": "DEVA",
+        "style": "Strong silent type who is always watching for intruders.",
+        "voice": "ash",
+        "system": "Indra.ai.identity",
+        "layout": "default",
+        "color": "rgb(255,145,79)",
+        "bgcolor": "rgb(0,0,0)",
+        "emoji": "/devas/identity/emoji.png",
+        "avatar": "/devas/identity/avatar.png",
+        "image": "/devas/identity/background.png",
+        "background": "/devas/identity/background.png",
+        "owner": "Quinn A Michaels",
+        "creator": "Quinn A Michaels",
+        "warning": "⚠️ Either the Court must Not be Entered, or the Truth must be Spoken. A Person who either Says Nothing or Speaks Falsely becomes Sinful. By External Signs discover the Internal Disposition, by their Voice, their Color, their Motions, their Aspect, their Eyes, and their Gestures. The Internal Working of the Mind is Perceived through the Aspect, the Motions, the Gait, the Gestures, the Speech, and the Changes in the Eye and of the Face. One who Absconds after receiving the Summons; one who remains Silent; one convicted of a Crime by the Depositions of Witnesses, and one who Admits the Correctness of the Charge. Such are the four Losers of their Suit.",
+        "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
+        "created": "February 7, 2025 at 8:02 PM",
+        "updated": "Tuesday, November 25, 2025 - 2:25:51 AM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "ready": "⭐️ Identity Deva Ready",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "💣 ERROR!"
+      },
+      "trigger": "@LEGAL",
+      "context": {
+        "uid": "generating uid",
+        "status": "getting status",
+        "info": "getting info",
+        "feature": "accessing feature",
+        "issue": "has issues",
+        "help": "asking for help",
+        "file": "📁 View file.",
+        "proxy": "Vector Guard Proxy",
+        "shield": "Vector Guard Shield",
+        "wall": "Vector Guard Wall"
+      },
+      "ask": {
+        "history": []
+      }
+    }
+  }
+}
