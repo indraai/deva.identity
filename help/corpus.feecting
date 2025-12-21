@@ -4,7 +4,7 @@
 //  Tuesday, November 25, 2025 - 2:25:51 AM
 
 ::BEGIN:MAIN
-# {{agent.name}}
+# {{profile.name}}
 
 {{profile}}
 
