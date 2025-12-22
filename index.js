@@ -40,7 +40,7 @@ const IDENTITY = new Deva({
   },
   listeners: {},
   modules: {},
-  deva: {},
+  devas: {},
   func: {},
   methods: {},
   onInit(data, resolve) {
