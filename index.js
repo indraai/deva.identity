@@ -1,10 +1,10 @@
 "use strict";
-// Copyright ©2000-2025 Quinn A Michaels; All rights reserved. 
-// Legal Signature Required For Lawful Use.
-// Distributed under VLA:70495219266813465441 LICENSE.md
-// Tuesday, November 25, 2025 - 2:25:51 AM
-
 // Identity Deva
+// Copyright ©2000-2026 Quinn A Michaels; All rights reserved. 
+// Legal Signature Required For Lawful Use.
+// Distributed under VLA:48126115987492261100 LICENSE.md
+// Sunday, January 4, 2026 - 7:35:50 AM
+
 import Deva from '@indra.ai/deva';
 import pkg from './package.json' with {type:'json'};
 const {agent,vars} = pkg.data;
