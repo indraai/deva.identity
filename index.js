@@ -29,7 +29,7 @@ const info = {
   copyright: pkg.copyright,
 };
 
-const IDENTITY = new Deva({
+const IdentityDeva = new Deva({
   info,
   agent,
   vars,
@@ -64,4 +64,4 @@ const IDENTITY = new Deva({
     return reject(err);
   },
 });
-export default IDENTITY
+export default IdentityDeva

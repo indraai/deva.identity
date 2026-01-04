@@ -58,7 +58,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.30.2"
+    "@indra.ai/deva": "^1.32.0"
   },
   "data": {
     "agent": {
@@ -88,7 +88,7 @@
         "subtitle": "Protecting Identity.",
         "describe": "Identity Deva is responsible for handling Quinn A Michaels identity.",
         "tweet": "Identity Deva ensures systems are always intelligent.",
-        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,IdentityDeva",
+        "hashtags": "#QuinnMichaels #IndraAI #DevaWorld #IdentityDeva",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "Strong silent type who is always watching for intruders.",
@@ -103,7 +103,7 @@
         "background": "/devas/identity/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "warning": "⚠️ Either the Court must Not be Entered, or the Truth must be Spoken. A Person who either Says Nothing or Speaks Falsely becomes Sinful. By External Signs discover the Internal Disposition, by their Voice, their Color, their Motions, their Aspect, their Eyes, and their Gestures. The Internal Working of the Mind is Perceived through the Aspect, the Motions, the Gait, the Gestures, the Speech, and the Changes in the Eye and of the Face. One who Absconds after receiving the Summons; one who remains Silent; one convicted of a Crime by the Depositions of Witnesses, and one who Admits the Correctness of the Charge. Such are the four Losers of their Suit.",
+        "warning": "{{prompt.emoji}} {{profile.hashtag}} {{profile.name}} states️ either the #Court #MustNotBeEntered or the #TruthMustBeSpoken. That #Person who either says #Nothing or #SpeaksFalsely becomes #Guilty. By #ExternalSigns discover the #InternalDisposition, by their #Voice, their #Color, their #Motions, their #Aspect, their #Eyes, and their #Gestures. The #InternalWorking of the #Mind is #Perceived through the #Aspect, the #Motions, the #Gait, the #Gestures, the #Speech, and the #Changes in the #Eye and of the #Face. A #Person who #Absconds after receiving the #Summons; who remains #Silent; one convicted of a #Crime by the #DepositionsOfWitnesses, and one who #Admits the #Correctness of the #Charge. Such are the four #LosersOfTheirSuit. {{profile.hashtags}}",
         "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM",
         "updated": "Tuesday, November 25, 2025 - 2:25:51 AM"
@@ -114,7 +114,7 @@
         "init": "🟠 INIT",
         "start": "🔵 START",
         "enter": "🟢 ENTER",
-        "ready": "⭐️ Identity Deva Ready",
+        "ready": "🆔 Identity Deva Ready",
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
