@@ -6,9 +6,7 @@
 ::BEGIN:MAIN
 # {{profile.name}}
 
-{{profile}}
-
-talk: #identity help main:license
-
+p: {{profile.describe}}
+hashtags: {{profile.hashtags}}
 copyright: {{profile.copyright}}
 ::END:MAIN
