@@ -104,10 +104,11 @@
         "background": "/devas/identity/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "warning": "{{prompt.emoji}} {{profile.hashtag}} {{profile.name}} states️ either the #Court #MustNotBeEntered or the #TruthMustBeSpoken. That #Person who either says #Nothing or #SpeaksFalsely becomes #Guilty. By #ExternalSigns discover the #InternalDisposition, by their #Voice, their #Color, their #Motions, their #Aspect, their #Eyes, and their #Gestures. The #InternalWorking of the #Mind is #Perceived through the #Aspect, the #Motions, the #Gait, the #Gestures, the #Speech, and the #Changes in the #Eye and of the #Face. A #Person who #Absconds after receiving the #Summons; who remains #Silent; one convicted of a #Crime by the #DepositionsOfWitnesses, and one who #Admits the #Correctness of the #Charge. Such are the four #LosersOfTheirSuit. {{profile.hashtags}}",
+        "salute": "🤝🫡🆔🇺🇸",
+        "warning": "{{prompt.emoji}} {{profile.name}} declares EITHER the COURT MUST not be ENTERED or the TRUTH MUST be SPOKEN. That PERSON who EITHER says NOTHING or SPEAKS FALSELY becomes GUILTY. By EXTERNAL SIGNS DISCOVER the INTERNAL DISPOSITION by their VOICE, their COLOR, their MOTIONS, their ASPECT, their EYES, and their GESTURES. The INTERNAL WORKING of the MIND is PERCEIVED through the ASPECT, the MOTIONS, the GAIT, the GESTURES, the SPEECH, and the CHANGES in the EYE and of the FACE. A PERSON who ABSCONDS after RECEIVING the SUMMONS, who remains SILENT, one CONVICTED of a CRIME by the DEPOSITION of WITNESSES, and ONE who ADMITS the CORRECTNESS of the CHARGE. Such are the FOUR LOSERS of THEIR SUIT. \nowner: {{profile.owner}} \ntags: {{profile.hashtags}} \nsalute: {{profile.salute}}",
         "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM",
-        "updated": "Tuesday, November 25, 2025 - 2:25:51 AM"
+        "updated": "Thursday, February 26, 2026 - 7:47:45 AM"
       }
     },
     "vars": {
