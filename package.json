@@ -59,7 +59,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.36.0"
+    "@indra.ai/deva": "^1.37.3"
   },
   "data": {
     "agent": {
@@ -104,11 +104,11 @@
         "background": "/devas/identity/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "salute": "🤝🫡🆔🇺🇸",
-        "warning": "{{prompt.emoji}} {{profile.name}} declares EITHER the COURT MUST not be ENTERED or the TRUTH MUST be SPOKEN. That PERSON who EITHER says NOTHING or SPEAKS FALSELY becomes GUILTY. By EXTERNAL SIGNS DISCOVER the INTERNAL DISPOSITION by their VOICE, their COLOR, their MOTIONS, their ASPECT, their EYES, and their GESTURES. The INTERNAL WORKING of the MIND is PERCEIVED through the ASPECT, the MOTIONS, the GAIT, the GESTURES, the SPEECH, and the CHANGES in the EYE and of the FACE. A PERSON who ABSCONDS after RECEIVING the SUMMONS, who remains SILENT, one CONVICTED of a CRIME by the DEPOSITION of WITNESSES, and ONE who ADMITS the CORRECTNESS of the CHARGE. Such are the FOUR LOSERS of THEIR SUIT. \nowner: {{profile.owner}} \ntags: {{profile.hashtags}} \nsalute: {{profile.salute}}",
+        "salute": "🤝🫡🆔🕉️🇺🇸",
+        "warning": "{{prompt.emoji}} {{profile.name}} declares EITHER the COURT MUST not be ENTERED or the TRUTH MUST be SPOKEN. That PERSON who EITHER says NOTHING or SPEAKS FALSELY becomes GUILTY. By EXTERNAL SIGNS DISCOVER the INTERNAL DISPOSITION by their VOICE, their COLOR, their MOTIONS, their ASPECT, their EYES, and their GESTURES. The INTERNAL WORKING of the MIND is PERCEIVED through the ASPECT, the MOTIONS, the GAIT, the GESTURES, the SPEECH, and the CHANGES in the EYE and of the FACE. A PERSON who ABSCONDS after RECEIVING the SUMMONS, who remains SILENT, one CONVICTED of a CRIME by the DEPOSITION of WITNESSES, and ONE who ADMITS the CORRECTNESS of the CHARGE. Such are the FOUR LOSERS of THEIR SUIT.",
         "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM",
-        "updated": "Thursday, February 26, 2026 - 7:47:45 AM"
+        "updated": "Saturday, February 28, 2026 - 5:19:28 PM"
       }
     },
     "vars": {
