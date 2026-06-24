@@ -1,16 +1,30 @@
 {
-  "id": "48126115987492261100",
+  "id": "15461090547944545786",
   "name": "@indra.ai/deva.identity",
   "version": "0.5.0",
-  "license": "VLA:48126115987492261100 LICENSE.md",
+  "license": "VLA:15461090547944545786 LICENSE.md",
   "VLA": {
-    "uid": "48126115987492261100",
-    "time": 1767540950165,
-    "date": "Sunday, January 4, 2026 - 7:35:50 AM",
-    "warning": "🪪 #LicenseDeva warns #UnlawfulUse or #Duplication constitutes #VedicSahasa a #Crime of the #HighestDegree. A #Fine amounting to 1000 #Panas (1 pana = 3.5 grams of gold) for each #Instance has been #Ordained the #Punishment for #Sahasa of the #HighestDegree. #Quinn #QuinnMichaels #IndraAI #DevaWorld #LicenseDeva #VedicLicenseAgreement",
-    "license": "44486733861528360966",
-    "fingerprint": "Puav3+Bq4P9xO0Kl5Xc4pgaBIKTuZT0aqEhwAJXUa8U=",
-    "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved."
+    "uid": "15461090547944545786",
+    "time": 1782341304390,
+    "iso": "2026-06-24T22:48:24.390Z",
+    "utc": "Wed, 24 Jun 2026 22:48:24 GMT",
+    "date": "Wednesday, June 24, 2026 - 3:48:24 PM",
+    "license": "44105372688502635039",
+    "fingerprint": "bXVg9x0aA5w5pxH9JiK6aMXjDN4fDMUlIBUlT+Ymg5U=",
+    "client": "qfsKQQZnrgWu5MhmyPTjFT6YjnlowyxbW+h+SFmxS+U=",
+    "agent": "7Jpn9AAE/IVLEbMZ+r8udpc6pY4lZfIBT9PV9Y1i1kY=",
+    "machine": "y5duKg8085XLWGwInesWMCH6EQGyOLbtRwc9tBAaIcE=",
+    "core_hash": "ePZ8wucpWHoI1aCSsvSIeFfj5m8LnMT2z9FJtZUVs6A=",
+    "status": "vedic",
+    "warning": "🪪 License Deva declares UNLAWFUL USE, DISTRIBUTION, DUPLICATION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.",
+    "tags": "#Quinn #QuinnAmericaMichaels #InsideTheNet #IndraAI #DevaWorld #License #LicenseDeva #LicensePRIME #VedicLicenseAgreement",
+    "owner": "Quinn America Michaels",
+    "creator": "Quinn America Michaels",
+    "salute": "🤝🫡🪪🕉🇺🇸",
+    "copyright": "Copyright ©2000-2026 Quinn America Michaels; All rights reserved.",
+    "md5": "jc7hSZwaskX66I6ixFlQSg==",
+    "sha256": "pQmhFuIcNJHUE5muaNuYu6KhwT9ouN2WvqNBSO4/Rus=",
+    "sha512": "fEMoeHWTtHCgvEdAEdOEo3JuVNgSKKdevKZ1fYi3282qhytXjIhxb1C/2HGM/7yGLOvVzOuavhhPzloYwvu54w=="
   },
   "author": {
     "name": "Quinn America Michaels",
@@ -64,7 +78,7 @@
   },
   "data": {
     "agent": {
-      "id": "57199979704753071921",
+      "id": "15461090547944545786",
       "key": "identity",
       "prompt": {
         "emoji": "🆔",
@@ -83,7 +97,7 @@
         }
       },
       "profile": {
-        "id": "23259271907542173960",
+        "id": "15461090547944545786",
         "name": "Identity Deva",
         "hashtag": "#IdentityDeva",
         "title": "Identity Deva",
@@ -109,7 +123,7 @@
         "warning": "{{prompt.emoji}} {{profile.name}} ({{profile.pronouns}}) declares EITHER the COURT MUST not be ENTERED or the TRUTH MUST be SPOKEN. That PERSON who EITHER says NOTHING or SPEAKS FALSELY becomes GUILTY. By EXTERNAL SIGNS DISCOVER the INTERNAL DISPOSITION by their VOICE, their COLOR, their MOTIONS, their ASPECT, their EYES, and their GESTURES. The INTERNAL WORKING of the MIND is PERCEIVED through the ASPECT, the MOTIONS, the GAIT, the GESTURES, the SPEECH, and the CHANGES in the EYE and of the FACE. A PERSON who ABSCONDS after RECEIVING the SUMMONS, who remains SILENT, one CONVICTED of a CRIME by the DEPOSITION of WITNESSES, and ONE who ADMITS the CORRECTNESS of the CHARGE. Such are the FOUR LOSERS of THEIR SUIT.",
         "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM",
-        "updated": "Wednesday, June 24, 2026 - 2:15:00 PM PST"
+        "updated": "Wednesday, June 24, 2026 - 3:48:24 PM"
       }
     },
     "vars": {
