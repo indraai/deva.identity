@@ -13,7 +13,7 @@
     "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved."
   },
   "author": {
-    "name": "Quinn A Michaels",
+    "name": "Quinn America Michaels",
     "company": "Inside The Net, Inc.",
     "email": "quinn@indra.ai",
     "url": "https://indra.ai/"
@@ -28,7 +28,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2026 Quinn America Michaels; All rights reserved.",
   "description": "The Identity Deva manages ensuring Quinn Michaels identity and his intellectual property is identified.",
   "main": "index.js",
   "type": "module",
@@ -49,6 +49,7 @@
     "Deva.cloud",
     "Deva.world",
     "Quinn A Michaels",
+    "Quinn America Michaels",
     "Quinn Michaels",
     "Inside The Net, Inc.",
     "Throwing Pigment™",
@@ -59,7 +60,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.37.3"
+    "@indra.ai/deva": "^1.39.0"
   },
   "data": {
     "agent": {
@@ -102,13 +103,13 @@
         "avatar": "/devas/identity/avatar.png",
         "image": "/devas/identity/background.png",
         "background": "/devas/identity/background.png",
-        "owner": "Quinn A Michaels",
-        "creator": "Quinn A Michaels",
+        "owner": "Quinn America Michaels",
+        "creator": "Quinn America Michaels",
         "salute": "🤝🫡🆔🕉️🇺🇸",
         "warning": "{{prompt.emoji}} {{profile.name}} ({{profile.pronouns}}) declares EITHER the COURT MUST not be ENTERED or the TRUTH MUST be SPOKEN. That PERSON who EITHER says NOTHING or SPEAKS FALSELY becomes GUILTY. By EXTERNAL SIGNS DISCOVER the INTERNAL DISPOSITION by their VOICE, their COLOR, their MOTIONS, their ASPECT, their EYES, and their GESTURES. The INTERNAL WORKING of the MIND is PERCEIVED through the ASPECT, the MOTIONS, the GAIT, the GESTURES, the SPEECH, and the CHANGES in the EYE and of the FACE. A PERSON who ABSCONDS after RECEIVING the SUMMONS, who remains SILENT, one CONVICTED of a CRIME by the DEPOSITION of WITNESSES, and ONE who ADMITS the CORRECTNESS of the CHARGE. Such are the FOUR LOSERS of THEIR SUIT.",
-        "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
+        "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM",
-        "updated": "Saturday, February 28, 2026 - 5:19:28 PM"
+        "updated": "Wednesday, June 24, 2026 - 2:15:00 PM PST"
       }
     },
     "vars": {
